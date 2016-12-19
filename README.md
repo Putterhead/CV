@@ -2,9 +2,9 @@
 
 I'm the sales guy who's curious about the world around him. My goal is to combine my passion for selling and my love for technology. I've enjoyed a successful career selling vehicles to C suite customers and international organisations from around the world, along the way experiencing first hand the automotive industry's pivot towards being more recognisable as a consumer electronics industry.   
 
-[Profile](#profile) -- [Skills](#skills) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
+<center>[Profile](#profile) -- [Skills](#skills) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)</center>
 
-###<center><a name="profile">Profile</a></center>
+###<a name="profile">Profile</a>
 
 I am eager to leverage my sales experience while evolving my new development skills. The next step in my evolution is to join an innovative team of brilliant developers to which I can apply my new knowledge of web development while learning all I can as quickly as I can.
 
@@ -37,7 +37,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Rspec, Jasmine, Mocha
 
 **Vienna University of Economics and Business Administration** (2011 - 2013)
-Graduation: MBA, honours
+- Graduation: MBA, honours
 - Focus: Competitive Analysis and Strategy, Financial Management, Controlling, Branding and Communication, Global Markets
 - Master Thesis: „The effects of Brand Globalness on consumer evaluations in Japan, Austria and among recent Japanese immigrants to Canada"
 - Accreditation: AMBA & EQUIS
@@ -66,7 +66,6 @@ Diplomatic Sales Representative
 
 **Berlitz Austria** (2004)   
 *Trainer of business English*
-Berlitz Austria, Vienna
 - Organization and implementation of courses for international clients (automotive and pharmaceutical industry, IT-services, capital goods)  
 - Organization of extra curricular activities and events
 - Tailoring of course content and requirements to individual customer needs
@@ -79,6 +78,6 @@ Berlitz Austria, Vienna
 - Representation responsibilities at numerous exhibitions and events
 
 ### Interests
-Cooking: Since moving to Austria I've become a reasonable cook and enjoy it as a creative outlet.
-Staying fit: A good mix of running with my wife, yoga and weight training all on a good diet (see above).
-Reading: On my Kindle you'll find quite some material on selling but I'm also very interested in economic history and human behaviour   
+- Cooking: Since moving to Austria I've become a reasonable cook and enjoy it as a creative outlet.
+- Staying fit: A good mix of running with my wife, yoga and weight training all on a good diet (see above).
+- Reading: On my Kindle you'll find quite some material on selling but I'm also very interested in economic history and human behaviour   
