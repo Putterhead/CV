@@ -2,7 +2,7 @@
 
 I'm the sales guy who's curious about the world around him. My goal is to combine my passion for selling and my love for technology. I've enjoyed a successful career selling vehicles to C suite customers and international organisations from around the world, along the way experiencing first hand the automotive industry's pivot towards being more recognisable as a consumer electronics industry.   
 
-<center>[Profile](#profile) -- [Skills](#skills) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)</center>
+[Profile](#profile) -- [Skills](#skills) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
 
 ###<a name="profile">Profile</a>
 
@@ -64,13 +64,13 @@ Diplomatic Sales Representative
 - High degree of inter-cultural and social competence
 - Innovative presentation and negotiation techniques
 
-**Berlitz Austria** (2004)   
+**Berlitz Austria** (2004)      
 *Trainer of business English*
 - Organization and implementation of courses for international clients (automotive and pharmaceutical industry, IT-services, capital goods)  
 - Organization of extra curricular activities and events
 - Tailoring of course content and requirements to individual customer needs
 
-**Metro Systems** (1999 - 2003)
+**Metro Systems** (1999 - 2003)      
 *Key Account Manager*
 - Responsibility for management of key accounts
 - Provision of individual support for technical issues
@@ -80,4 +80,4 @@ Diplomatic Sales Representative
 ### Interests
 - Cooking: Since moving to Austria I've become a reasonable cook and enjoy it as a creative outlet.
 - Staying fit: A good mix of running with my wife, yoga and weight training all on a good diet (see above).
-- Reading: On my Kindle you'll find quite some material on selling but I'm also very interested in economic history and human behaviour   
+- Reading: On my Kindle you'll find quite some material on selling but I'm also very interested in economic history ('The Commanding Heights', *Yergin & Stanislaw*) and human behaviour ('Thinking, Fast and Slow', *Kahneman*)
