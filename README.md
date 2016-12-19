@@ -2,6 +2,8 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+[Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
+
 ## Skills
 
 #### This Skill
@@ -21,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (start_date to end_date)
 
@@ -32,21 +34,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
 ## Vienna University of Economics and Business Administration (2011 - 2013)
 Graduation: MBA, honours
 •	Focus: Competitive Analysis and Strategy, Financial Management, Controlling, Branding and Communication, Global Markets
 •	Master Thesis: „The effects of Brand Globalness on consumer evaluations in Japan, Austria and among recent Japanese immigrants to Canada"
 •	Accreditation: AMBA & EQUIS
 
-## Bond University, Queensland, Australia
-Graduation: Bachelor of Science
+## Bond University, Queensland, Australia (1994-2001)
+Graduation: BA in Commerce
 •	Awarded A.I.M. (Australian Institute of Management) prize for Management (project management and business plan conception)
 
 #### Qualifications
 Project Management Certification, Prince2 Practitioner
 
-## Experience
+## <a name="experience">Professional Experience</a>
 
 **BMW Austria** (2004 - 2016)    
 *Diplomatic Sales*  
@@ -75,3 +76,5 @@ Trainer of business English
 •	Provision of individual support for technical issues
 •	Development of sales promotions
 •	Representation responsibilities at numerous exhibitions and events
+
+### interests
