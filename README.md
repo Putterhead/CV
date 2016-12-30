@@ -8,30 +8,29 @@ The next step? Join an innovative team where my sales experience and new knowled
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 ###<a name="skills">Skills</a>
-##### Determination
+#### Determination
 
 I perform well in a sink-or-swim environment, which is where I found myself when I moved to Austria without any knowledge of the German language.
 - Within four months of arriving in Austria I had learnt enough German to be able to communicate fluently and landed a job working for one of the worlds leading premium automotive manufacturers.
 - Despite my complete lack of experience in the automotive industry, I was able to consistently exceed yearly growth targets. Through iteration, I was able to steadily improve my performance, building a reputation among my clients of being someone who goes above and beyond.
-- Completing an MBA with honours while working full-time <a href="http://rankings.ft.com/businessschoolrankings/vienna-university-of-economics-and-businessuniversity-of-minnesota-carlson/executive-mba-ranking-2016#executive-mba-ranking-2016">(Vienna University of Economics and Business)</a>
+- Completing an MBA with honours while working full-time <a href="http://rankings.ft.com/businessschoolrankings/vienna-university-of-economics-and-businessuniversity-of-minnesota-carlson/executive-mba-ranking-2016#executive-mba-ranking-2016>(Vienna University of Economics and Business)</a>
 
 #### Marketing & Sales Expertise
 
 Through hands-on, customer facing experience, I've learnt to focus on what's important in selling - taking a genuine interest in what is causing my client pain; it's not rocket science but I've become very good at it.
 - I introduced the first customer newsletter for our diplomatic customers in Austria. This became a valuable tool in communicating with our customers but had the added benefit of teaching me about the creative process through to how best distribute it as well as the importance of stakeholder involvement.
-- In an effort to support our sales effort during the time of the Great Recession, I lead the effort to introduce wholesale vehicle financing to tax free organisations. We were not only able to maintain market share in what was a very difficult time but it later enabled us to bring in clients that would have otherwise considered our products too expensive.
-- I developed my own <a href="https://www.saleshacker.com/four-salesforce-dashboards-for-more-effective-sdr-teams/">dashboard</a> where I was able to monitor correlations between customer touch-points and sales performance. This allowed me to focus my time on those activities that I knew were revenue generating, in turn boosting my motivation.  
+- In an effort to support our sales efforts during the time of the Great Recession, I lead the effort to introduce wholesale vehicle financing to tax free organisations. We were not only able to maintain market share in what was a very difficult time but it later enabled us to bring in clients that would have otherwise considered our products too expensive.
+- I developed my own <a href="http://www.inc.com/sarah-prevette/building-your-ceo-dashboard.html" target="_blank">dashboard</a> where I was able to monitor correlations between customer touch-points and sales performance. This allowed me to focus my time on those activities that I knew were revenue generating, in turn boosting my motivation.  
 
-##### Automotive Industry Expertise
+#### Automotive Industry Expertise
 
 The whole reason I became interested in seriously learning how to code was because it's becoming an inseparable part of any self respecting "connected" vehicle.
 - From within the industry, I've experienced how individual mobility is being redefined and how new market entrants (you know who I'm talking about) are forcing incumbents to keep pace.
-- On a granular level, I understand the relationship between manufacturer and dealer and their, at times, conflicting agendas. Through the prism of my interest in product management and business strategy, I have keenly monitored the evolution of the automotive industry. 
+- On a granular level, I understand the relationship between manufacturer and dealer and their, at times, conflicting agendas. Through the prism of my interest in product management and business strategy, I have keenly monitored the evolution of the automotive industry.
 
-##### Interpersonal Skills
+#### Interpersonal Skills
 
 A sales situation can be stressful for many people and I'm good at making those around me feel comfortable and at ease when a fight-or-flight response is typically experienced - a skill especially important in a sales situation where anxiety often inhibits the flow of free expression, so critical in understanding a client’s sincerest motivations and collecting an undiluted profile of what's of value to them.
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 ### <a name="education">Education</a>
 
@@ -51,7 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **Graduation: BA in Commerce**
 - Awarded A.I.M. (Australian Institute of Management) prize for Management (project management and business plan conception)
 
-- <a name="https://www.prince2.com/eur/prince2-methodology"><**Prince2 Practitioner**</a> Project Management Certification, (2015 - 2016)
+- <a href="https://www.prince2.com/eur/prince2-methodology"><**Prince2 Practitioner**</a> Project Management Certification, (2015 - 2016)
 
 ### <a name="experience">Professional Experience</a>
 
@@ -91,7 +90,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Japanese *Elementary proficiency*
 
 ### <a name="contact">Contact</a>
-- <a"https://github.com/Putterhead">Github</a>
-- <a"https://at.linkedin.com/in/petergh">LinkedIn</a>
-- <a"https://twitter.com/petergranthay">Twitter</a>
-- <a"https://www.codewars.com/users/Putterhead">Codewars</a>
+- <a href="https://github.com/Putterhead" target="_blank">Github</a>
+- <a href="https://at.linkedin.com/in/petergh" target="_blank">LinkedIn</a>
+- <a href="https://twitter.com/petergranthay" target="_blank">Twitter</a>
+- <a href="https://www.codewars.com/users/Putterhead" target="_blank">Codewars</a>
