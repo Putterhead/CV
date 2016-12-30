@@ -12,8 +12,8 @@ The next step? Join an innovative team where my sales experience and new knowled
 
 I perform well in a sink-or-swim environment, which is where I found myself when I moved to Austria without any knowledge of the German language.
 - Within four months of arriving in Austria I had learnt enough German to be able to communicate fluently and landed a job working for one of the worlds leading premium automotive manufacturers.
-- Despite my complete lack of experience in the automotive industry, I was able to consistently exceed yearly growth targets. Through iteration, I was able to steadily improve my performance, building a reputation among my clients of being someone who goes above and beyond.
-- Completing an MBA with honours while working full-time <a href="http://rankings.ft.com/businessschoolrankings/vienna-university-of-economics-and-businessuniversity-of-minnesota-carlson/executive-mba-ranking-2016#executive-mba-ranking-2016>(Vienna University of Economics and Business)</a>
+- Despite my complete lack of experience in the automotive industry, I was consistently able to exceed yearly sales targets. Through iteration, I was able to steadily improve my performance, building a reputation among my clients of being someone who goes above and beyond.
+- Completing an MBA with honours while working full-time <a href="http://rankings.ft.com/businessschoolrankings/vienna-university-of-economics-and-businessuniversity-of-minnesota-carlson/executive-mba-ranking-2016#executive-mba-ranking-2016" target="_blank">(Vienna University of Economics and Business)</a>
 
 #### Marketing & Sales Expertise
 
@@ -40,6 +40,8 @@ A sales situation can be stressful for many people and I'm good at making those 
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
+<a href="https://www.prince2.com/eur/prince2-methodology">Prince2 Practitioner</a> Project Management Certification, (2015 - 2016)
+
 **Vienna University of Economics and Business Administration**, Vienna, Austria (2011 - 2013)
 - **Graduation: MBA** *(Hons)*
 - Focus: Competitive Analysis and Strategy, Financial Management, Controlling, Branding and Communication, Global Markets
@@ -49,8 +51,6 @@ A sales situation can be stressful for many people and I'm good at making those 
 **Bond University**, Queensland, Australia (1994 - 2001)
 - **Graduation: BA in Commerce**
 - Awarded A.I.M. (Australian Institute of Management) prize for Management (project management and business plan conception)
-
-- <a href="https://www.prince2.com/eur/prince2-methodology"><**Prince2 Practitioner**</a> Project Management Certification, (2015 - 2016)
 
 ### <a name="experience">Professional Experience</a>
 
