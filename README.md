@@ -1,25 +1,28 @@
 ## Peter Grant-Hay
 
-I'm the sales guy who's curious about the world around him. I love technology and I'm fascinated by its impact on how we live and interact. My goal is to combine my passion for selling and my love for technology.
-I've enjoyed a successful career selling vehicles to C-suite customers and international organisations from around the world, along the way experiencing first hand the automotive industry's pivot towards one that I suspect will soon be more recognisable as being part of the consumer electronics industry.
-I am eager to leverage my sales and intercultural experience while evolving my new development and problem solving skills.
-The next step? Join an innovative team where my sales experience and new knowledge of software development can be harnessed to deliver meaningful customer value.  
+I'm the sales guy who's curious about the world around him. I interested in technology and especially fascinated by its impact on how we live and interact. My goal is to combine my passion for selling and my love for technology.
+I've enjoyed a successful career providing mobility solutions to C-suite customers and international organisations from around the world. During this journey, I've experienced first hand the automotive industry's pivot towards being an industry that could arguable be better described as being part of of the consumer electronics industry.
+
+I am eager to leverage my sales and intercultural experience while growing my software development and problem solving skills.
+The next step? Join an innovative team where my sales experience and knowledge of software development can be harnessed to deliver meaningful customer value.  
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 ###<a name="skills">Skills</a>
 #### Determination
 
-I perform well in a sink-or-swim environment, which is where I found myself when I moved to Austria without any knowledge of the German language.
+I perform well in a sink-or-swim environment, which is where I found myself when I moved to Austria without any prior knowledge of the German language.
 - Within four months of arriving in Austria I had learnt enough German to be able to communicate fluently and landed a job working for one of the worlds leading premium automotive manufacturers.
-- Despite my complete lack of experience in the automotive industry, I was consistently able to exceed yearly sales targets. Through iteration, I was able to steadily improve my performance, building a reputation among my clients of being someone who goes above and beyond.
+- Despite my complete lack of experience in the automotive industry, I was consistently able to exceed yearly sales targets. Through iteration, I was able to steadily improve my performance, building a reputation among my clients as being someone who goes above and beyond.
 - Completing an MBA with honours while working full-time <a href="http://rankings.ft.com/businessschoolrankings/vienna-university-of-economics-and-businessuniversity-of-minnesota-carlson/executive-mba-ranking-2016#executive-mba-ranking-2016" target="_blank">(Vienna University of Economics and Business)</a>
+
+<a href="https://www.prince2.com/eur/what-is-prince2" target="_blank">Prince2 Practitioner</a> Project Management Certification, (2015 - 2016)
 
 #### Marketing & Sales Expertise
 
-Through hands-on, customer facing experience, I've learnt to focus on what's important in selling - taking a genuine interest in what is causing my client pain; it's not rocket science but I've become very good at it.
+Through hands-on, customer facing experience, I've learnt to focus on what's important in selling - taking a genuine interest in what is causing my client pain.
 - I introduced the first customer newsletter for our diplomatic customers in Austria. This became a valuable tool in communicating with our customers but had the added benefit of teaching me about the creative process through to how best distribute it as well as the importance of stakeholder involvement.
-- In an effort to support our sales efforts during the time of the Great Recession, I lead the effort to introduce wholesale vehicle financing to tax free organisations. We were not only able to maintain market share in what was a very difficult time but it later enabled us to bring in clients that would have otherwise considered our products too expensive.
+- In an effort to support our sales efforts during the time of the Great Recession, I lead the effort to introduce wholesale vehicle financing to tax free organisations. We were not only able to maintain market share in what was a very difficult time but it later even enabled us to bring in clients that would have otherwise considered our products too expensive.
 - I developed my own <a href="http://www.inc.com/sarah-prevette/building-your-ceo-dashboard.html" target="_blank">dashboard</a> where I was able to monitor correlations between customer touch-points and sales performance. This allowed me to focus my time on those activities that I knew were revenue generating, in turn boosting my motivation.  
 
 #### Automotive Industry Expertise
@@ -38,9 +41,9 @@ A sales situation can be stressful for many people and I'm good at making those 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Rspec, Jasmine
 
-<a href="https://www.prince2.com/eur/prince2-methodology">Prince2 Practitioner</a> Project Management Certification, (2015 - 2016)
+<a href="https://www.prince2.com/eur/what-is-prince2" target="_blank">Prince2 Practitioner</a> Project Management Certification, (2015 - 2016)
 
 **Vienna University of Economics and Business Administration**, Vienna, Austria (2011 - 2013)
 - **Graduation: MBA** *(Hons)*
@@ -81,6 +84,7 @@ A sales situation can be stressful for many people and I'm good at making those 
 
 ### <a name="interests">Interests</a>
 - Cooking: Since moving to Austria I've become a reasonable cook and enjoy it as a creative outlet.
+- Lifehacks: Which of course includes learning to code!
 - Staying fit: A good mix of running with my wife, yoga and weight training all on a good diet.
 - Reading: On my Kindle you'll find quite some material on selling but I'm also very interested in economic history ('The Commanding Heights', *Yergin & Stanislaw*) and human behaviour ('Thinking, Fast and Slow', *Kahneman*)
 
