@@ -16,8 +16,6 @@ I perform well in a sink-or-swim environment, which is where I found myself when
 - Despite my complete lack of experience in the automotive industry, I was consistently able to exceed yearly sales targets. Through iteration, I was able to steadily improve my performance, building a reputation among my clients as being someone who goes above and beyond.
 - Completing an MBA with honours while working full-time <a href="http://rankings.ft.com/businessschoolrankings/vienna-university-of-economics-and-businessuniversity-of-minnesota-carlson/executive-mba-ranking-2016#executive-mba-ranking-2016" target="_blank">(Vienna University of Economics and Business)</a>
 
-<a href="https://www.prince2.com/eur/what-is-prince2" target="_blank">Prince2 Practitioner</a> Project Management Certification, (2015 - 2016)
-
 #### Marketing & Sales Expertise
 
 Through hands-on, customer facing experience, I've learnt to focus on what's important in selling - taking a genuine interest in what is causing my client pain.
